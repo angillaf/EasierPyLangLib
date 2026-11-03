@@ -1,0 +1,5 @@
+numpy
+urllib3
+request
+vpython
+bs4

@@ -1,0 +1,16 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# root
+root = true
+
+# all file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Python file
+[*.py]
+indent_style = tab  # please indent with Tab, thanks
+indent_size = 4
